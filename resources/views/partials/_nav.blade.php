@@ -179,12 +179,12 @@
                 <div class="t461__bottomwrapper t461__menualign_center" style=" height:40px;">
                     <div class="t461__listwrapper t461__desktoplist">
                         <ul class="t461__list">
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/#rec36197724" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="1">Services </a></li>
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/#rec36198349" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="2">Prices</a></li>
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/#rec45359776" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="3">Reviews</a></li>
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/#rec36102647" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="4">Contacts</a></li>
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/family" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="5">Family</a></li>
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="https://secure.flashmoving.net/account/#/login" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="6">Client Login</a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="1">Services </a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="/prices" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="2">Prices</a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="3">Reviews</a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="4">Contacts</a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="/family" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="5">Family</a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="6">Client Login</a></li>
                         </ul>
                     </div>
                 </div>
@@ -291,9 +291,8 @@
                 <div class="t228__centerside ">
                     <div class="t228__centercontainer">
                         <ul class="t228__list t228__list_hidden">
-                            <li class="t228__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/#rec36197724" style="color:#ffffff;font-weight:600;" data-menu-item-number="1">Services </a></li>
-                            <li class="t228__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/#rec36198349" style="color:#ffffff;font-weight:600;" data-menu-item-number="2">Prices</a></li>
-                            <li class="t228__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/#rec45359776" style="color:#ffffff;font-weight:600;" data-menu-item-number="3">Reviews</a></li>
+                            <li class="t228__list_item"><a class="t-menu__link-item" href="/services" style="color:#ffffff;font-weight:600;" data-menu-item-number="1">Services </a></li>
+                            <li class="t228__list_item"><a class="t-menu__link-item" href="/prices" style="color:#ffffff;font-weight:600;" data-menu-item-number="2">Prices</a></li>
                             <li class="t228__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/#rec36102647" style="color:#ffffff;font-weight:600;" data-menu-item-number="4">Contacts</a></li>
                             <li class="t228__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/family" style="color:#ffffff;font-weight:600;" data-menu-item-number="5">Family</a></li>
                             <li class="t228__list_item"><a class="t-menu__link-item" href="https://secure.flashmoving.net/account/#/login" style="color:#ffffff;font-weight:600;" data-menu-item-number="6">Client Login</a></li>
