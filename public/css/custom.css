@@ -1,0 +1,41 @@
+
+.t-btn_sm:hover{
+  background-color: #000 !important;
+  color: white !important;
+  transition: 0.4s !important;
+}
+
+
+.t-btn:hover{
+  background-color: #000 !important;
+  color: white !important;
+  transition: 0.4s !important;
+}
+
+a.t-menu__link-item:hover{
+  color: #d04221 !important;
+  transition: 0.4s !important;
+}
+
+.t457__ul a:hover{
+  color: #d04221 !important;
+  transition: 0.4s !important;
+}
+
+
+svg:hover {
+    fill: #0e1a25;
+    background:#d04221;
+    transform: scale(1.1);
+    transition: background 0.5s, ease-out, fill 0.5s;
+}
+
+.t572__text a:hover{
+  color:red !important;
+  transition: 0.2s !important;
+}
+
+.t461__additional_buttons_wrap a:hover{
+  background:#d04221 !important;
+  transition: 0.2s !important;
+}

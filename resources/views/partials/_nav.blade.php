@@ -103,18 +103,18 @@
                     <div class="t461__logowrapper">
                         <div class="t461__logowrapper2">
                             <div style="display: block;">
-                                <a href="#" style="color:#ffffff;font-weight:600;"> <img src="images/tild3262-6134-4566-b663-613932376433__1.png" class="t461__imglogo t461__imglogomobile" imgfield="img" style="max-width: 200px; width: 200px;" alt=""> </a>
+                                <a href="/" style="color:#ffffff;font-weight:600;"> <img src="images/tild3262-6134-4566-b663-613932376433__1.png" class="t461__imglogo t461__imglogomobile" imgfield="img" style="max-width: 200px; width: 200px;" alt=""> </a>
                             </div>
                         </div>
                     </div>
                     <div class="t461__listwrapper t461__mobilelist">
                         <ul class="t461__list">
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="#" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="1">Services </a></li>
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="#" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="2">Prices</a></li>
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="#" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="3">Reviews</a></li>
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="#" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="4">Contacts</a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="1">Services </a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="2">Prices</a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="3">About Us</a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="4">Contact Us</a></li>
                             <li class="t461__list_item"><a class="t-menu__link-item" href="/family" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="5">Family</a></li>
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="#" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="6">Client Login</a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="6">Client Login</a></li>
                         </ul>
                     </div>
                     <div class="t461__alladditional">
@@ -181,8 +181,8 @@
                         <ul class="t461__list">
                             <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="1">Services </a></li>
                             <li class="t461__list_item"><a class="t-menu__link-item" href="/prices" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="2">Prices</a></li>
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="3">Reviews</a></li>
-                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="4">Contacts</a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="3">About Us</a></li>
+                            <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="4">Contact Us</a></li>
                             <li class="t461__list_item"><a class="t-menu__link-item" href="/family" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="5">Family</a></li>
                             <li class="t461__list_item"><a class="t-menu__link-item" href="" style="color:#000000;font-size:15px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;padding:10px;" data-menu-item-number="6">Client Login</a></li>
                         </ul>
@@ -285,7 +285,7 @@
                 <div class="t228__padding40px"></div>
                 <div class="t228__leftside">
                     <div class="t228__leftcontainer">
-                        <a href="http://flashmoving.net/" style="color:#ffffff;"><img src="images/tild3632-6334-4437-b261-353030353365__2_logodlyavizitki.png" class="t228__imglogo t228__imglogomobile" imgfield="img" style="max-width: 100px;width: 100px; height: auto; display: block;" alt=""></a>
+                        <a href="/" style="color:#ffffff;"><img src="images/tild3632-6334-4437-b261-353030353365__2_logodlyavizitki.png" class="t228__imglogo t228__imglogomobile" imgfield="img" style="max-width: 100px;width: 100px; height: auto; display: block;" alt=""></a>
                     </div>
                 </div>
                 <div class="t228__centerside ">
@@ -293,9 +293,10 @@
                         <ul class="t228__list t228__list_hidden">
                             <li class="t228__list_item"><a class="t-menu__link-item" href="/services" style="color:#ffffff;font-weight:600;" data-menu-item-number="1">Services </a></li>
                             <li class="t228__list_item"><a class="t-menu__link-item" href="/prices" style="color:#ffffff;font-weight:600;" data-menu-item-number="2">Prices</a></li>
-                            <li class="t228__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/#rec36102647" style="color:#ffffff;font-weight:600;" data-menu-item-number="4">Contacts</a></li>
-                            <li class="t228__list_item"><a class="t-menu__link-item" href="http://flashmoving.net/family" style="color:#ffffff;font-weight:600;" data-menu-item-number="5">Family</a></li>
-                            <li class="t228__list_item"><a class="t-menu__link-item" href="https://secure.flashmoving.net/account/#/login" style="color:#ffffff;font-weight:600;" data-menu-item-number="6">Client Login</a></li>
+                            <li class="t228__list_item"><a class="t-menu__link-item" href="/prices" style="color:#ffffff;font-weight:600;" data-menu-item-number="3">About Us</a></li>
+                            <li class="t228__list_item"><a class="t-menu__link-item" href="" style="color:#ffffff;font-weight:600;" data-menu-item-number="4">Contact Us</a></li>
+                            <li class="t228__list_item"><a class="t-menu__link-item" href="" style="color:#ffffff;font-weight:600;" data-menu-item-number="5">Family</a></li>
+                            <li class="t228__list_item"><a class="t-menu__link-item" href="" style="color:#ffffff;font-weight:600;" data-menu-item-number="6">Client Login</a></li>
                         </ul>
                     </div>
                 </div>
@@ -401,7 +402,7 @@
                 <div class="t282__menu__content ">
                     <div class="t282__logo__container" style="height:20px;">
                         <div class="t282__logo__content">
-                            <a class="t282__logo" href="http://flashmoving.net" style=""><img src="images/tild6166-6530-4035-b866-393638386339__logodlyavizitki.png" style="height: 45px;" class="t280__logo__img" imgfield="img" alt="Logo"></a>
+                            <a class="t282__logo" href="/" style=""><img src="images/tild6166-6530-4035-b866-393638386339__logodlyavizitki.png" style="height: 45px;" class="t280__logo__img" imgfield="img" alt="Logo"></a>
                         </div>
                         <div class="t282__burger"> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> </div>
                     </div>

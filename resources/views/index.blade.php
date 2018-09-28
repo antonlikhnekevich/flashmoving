@@ -115,6 +115,7 @@
             <div class="t334">
                 <div class="t-container ">
                     <div class="t334__col t-col t-col_6 t-align_center ">
+                      <a href="/family">
                         <div class="t334__table" style="height:50vh;">
                             <div class="t334__cell t-align_center t-valign_middle">
                                 <div class="t334__bg t334__animation_fast t334__bg_animated t-bgimg" bgimgfield="img" data-original="images/tild3463-3362-4631-b736-376630363864__img_7851.jpg" style="background-image:url('images/tild3463-3362-4631-b736-376630363864__-__resize__20x__IMG_7851.jpg');"></div>
@@ -126,8 +127,10 @@
                                 </div>
                             </div>
                         </div>
+                      </a>
                     </div>
                     <div class="t334__col t-col t-col_6 t-align_center ">
+                      <a href="/family">
                         <div class="t334__table" style="height:50vh;">
                             <div class="t334__cell t-align_center t-valign_middle">
                                 <div class="t334__bg t334__animation_fast t334__bg_animated t-bgimg" bgimgfield="img2" data-original="images/tild3237-6233-4765-b937-616162663833__highwaytrucks.jpg" style="background-image:url('images/tild3237-6233-4765-b937-616162663833__-__resize__20x__Highwaytrucks.jpg');"></div>
@@ -139,6 +142,7 @@
                                 </div>
                             </div>
                         </div>
+                      </a>
                     </div>
                 </div>
             </div>
@@ -147,6 +151,7 @@
             <div class="t334">
                 <div class="t-container ">
                     <div class="t334__col t-col t-col_4 t-align_center ">
+                      <a href="/family">
                         <div class="t334__table" style="height:50vh;">
                             <div class="t334__cell t-align_center t-valign_middle">
                                 <div class="t334__bg t334__animation_fast t334__bg_animated t-bgimg" bgimgfield="img" data-original="images/tild6138-6433-4138-b336-626534613865__public_storage_doors.jpg" style="background-image:url('images/tild6138-6433-4138-b336-626534613865__-__resize__20x__Public_Storage_doors.jpg');"></div>
@@ -158,8 +163,10 @@
                                 </div>
                             </div>
                         </div>
+                      </a>
                     </div>
                     <div class="t334__col t-col t-col_4 t-align_center ">
+                      <a href="/family">
                         <div class="t334__table" style="height:50vh;">
                             <div class="t334__cell t-align_center t-valign_middle">
                                 <div class="t334__bg t334__animation_fast t334__bg_animated t-bgimg" bgimgfield="img2" data-original="images/tild6162-3062-4433-b431-666463393166__whitehomeoffice.jpg" style="background-image:url('images/tild6162-3062-4433-b431-666463393166__-__resize__20x__whitehomeoffice.jpg');"></div>
@@ -171,8 +178,10 @@
                                 </div>
                             </div>
                         </div>
+                      </a>
                     </div>
                     <div class="t334__col t-col t-col_4 t-align_center ">
+                      <a href="/family">
                         <div class="t334__table" style="height:50vh;">
                             <div class="t334__cell t-align_center t-valign_middle">
                                 <div class="t334__bg t334__animation_fast t334__bg_animated t-bgimg" bgimgfield="img3" data-original="images/tild3466-3439-4235-b235-633330656638__d4f8081d917643ed96bd.jpg" style="background-image:url('images/tild3466-3439-4235-b235-633330656638__-__resize__20x__d4f8081d917643ed96bd.jpg');"></div>
@@ -184,6 +193,7 @@
                                 </div>
                             </div>
                         </div>
+                      </a>
                     </div>
                 </div>
             </div>
