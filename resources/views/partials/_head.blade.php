@@ -11,12 +11,12 @@
     <meta property="fb:app_id" content="257953674358265" />
     <meta name="format-detection" content="telephone=no" />
     <meta http-equiv="x-dns-prefetch-control" content="on">
-    <link rel="dns-prefetch" href="https://tilda.ws">
-    <link rel="dns-prefetch" href="https://static.tildacdn.com">
     <meta name="description" content="Residential and commercial, local and interstate moves, packing solutions and other moving services" />
     <link rel="canonical" href="http://flashmoving.net/">
     <link rel="shortcut icon" href="https://static.tildacdn.com/tild3063-6638-4664-a564-356261383339/favicon.ico" type="image/x-icon" />
     <!-- Assets -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'/>
+
     <link rel="stylesheet" href="{!! asset('css/tilda-grid-3.0.min.css') !!}" type="text/css" media="all" />
     <link rel="stylesheet" href="{!! asset('css/tilda-blocks-2.12.css') !!}" type="text/css" media="all" />
     <link rel="stylesheet" href="{!! asset('css/tilda-animation-1.0.min.css') !!}" type="text/css" media="all" />

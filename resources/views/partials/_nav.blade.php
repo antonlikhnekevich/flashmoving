@@ -304,7 +304,7 @@
                         <div class="t228__right_buttons">
                             <div class="t228__right_buttons_wrap">
                                 <div class="t228__right_buttons_but">
-                                    <a href="" target="" class="t-btn " style="color:#ffffff;border-radius:20px; -moz-border-radius:20px; -webkit-border-radius:20px;font-weight:600;">
+                                    <a href="" target="" class="t-btn " style="color:#000000;border:2px solid #d14321;border-radius:40px; -moz-border-radius:40px; -webkit-border-radius:40px; font-family:Roboto;font-weight:600;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);">
                                         <table style="width:100%; height:100%;">
                                             <tr>
                                                 <td>+1 857 241 8778</td>
@@ -401,7 +401,7 @@
                 <div class="t282__menu__content ">
                     <div class="t282__logo__container" style="height:20px;">
                         <div class="t282__logo__content">
-                            <a class="t282__logo" href="http://flashmoving.net" style=""><img src="images/tild6166-6530-4035-b866-393638386339__logodlyavizitki.png" style="height: 45px;" class="t280__logo__img" imgfield="img" alt="Logo"></a>
+                            <a class="t282__logo" href="/" style=""><img src="images/tild6166-6530-4035-b866-393638386339__logodlyavizitki.png" style="height: 45px;" class="t280__logo__img" imgfield="img" alt="Logo"></a>
                         </div>
                         <div class="t282__burger"> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> </div>
                     </div>

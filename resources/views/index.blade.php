@@ -7,7 +7,7 @@
 @section('content')
 <body class="t-body" style="margin:0;">
     <!--allrecords-->
-    <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="80487" data-tilda-page-id="277451" data-tilda-formskey="037c22c7d5e69bb5f455c2a4d760c441">
+    <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node">
         <div id="rec55339632" class="r t-rec" style=" " data-record-type="635">
             <!-- T635 -->
             <div class="t635__textholder" data-recid="7907001" data-text1="INSURED" data-text2="LICENSED" data-text3="BONDED" data-speed="80"></div>
@@ -98,7 +98,7 @@
             <div class="t030">
                 <div class="t-container t-align_center">
                     <div class="t-col t-col_10 t-prefix_1">
-                        <div class="t030__title t-title t-title_xxs" field="title" style="">Services
+                        <div class="t030__title t-title t-title_xxs" field="title" style=""><h1>Boston Movers</h1>
                             <br />
                         </div>
                         <div class="t030__descr t-descr t-descr_md" field="descr" style="">
