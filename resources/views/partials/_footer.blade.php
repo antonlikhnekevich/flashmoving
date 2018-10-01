@@ -4,12 +4,13 @@
         <div class="t-container">
             <div class="t-col t-col_12">
                 <ul class="t457__ul">
-                    <li class="t457__li"> <a href="" style="color:#ffffff;font-size:18px;" data-menu-item-number="1">Service</a> </li>
-                    <li class="t457__li"> <a href="" style="color:#ffffff;font-size:18px;" data-menu-item-number="2">Pricing</a> </li>
-                    <li class="t457__li"> <a href="" style="color:#ffffff;font-size:18px;" data-menu-item-number="3">About Us</a> </li>
-                    <li class="t457__li"> <a href="" style="color:#ffffff;font-size:18px;" data-menu-item-number="4">Contact Us</a> </li>
-                    <li class="t457__li"> <a href="/family" style="color:#ffffff;font-size:18px;" data-menu-item-number="5">Family</a> </li>
-                    <li class="t457__li"> <a href="" style="color:#ffffff;font-size:18px;" data-menu-item-number="6">Client login</a> </li>
+                    <li class="t457__li"> <a href="/" style="color:#ffffff;font-size:18px;" data-menu-item-number="1">Home</a> </li>
+                    <li class="t457__li"> <a href="" style="color:#ffffff;font-size:18px;" data-menu-item-number="2">Services</a> </li>
+                    <li class="t457__li"> <a href="" style="color:#ffffff;font-size:18px;" data-menu-item-number="3">Pricing</a> </li>
+                    <li class="t457__li"> <a href="" style="color:#ffffff;font-size:18px;" data-menu-item-number="4">About Us</a> </li>
+                    <li class="t457__li"> <a href="" style="color:#ffffff;font-size:18px;" data-menu-item-number="5">Contact Us</a> </li>
+                    <li class="t457__li"> <a href="/family" style="color:#ffffff;font-size:18px;" data-menu-item-number="6">Family</a> </li>
+                    <li class="t457__li"> <a href="" style="color:#ffffff;font-size:18px;" data-menu-item-number="7">Client login</a> </li>
                 </ul>
             </div>
             <div class="t-col t-col_12">

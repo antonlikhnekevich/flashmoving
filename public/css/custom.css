@@ -2,14 +2,14 @@
 .t-btn_sm:hover{
   background-color: #000 !important;
   color: white !important;
-  transition: 0.4s !important;
+  transition: 0.5s !important;
 }
 
 
 .t-btn:hover{
   background-color: #000 !important;
   color: white !important;
-  transition: 0.4s !important;
+  transition: 0.5s !important;
 }
 
 a.t-menu__link-item:hover{
@@ -32,7 +32,7 @@ svg:hover {
 
 .t572__text a:hover{
   color:red !important;
-  transition: 0.2s !important;
+  transition: 0.3s !important;
 }
 
 .t461__additional_buttons_wrap a:hover{
