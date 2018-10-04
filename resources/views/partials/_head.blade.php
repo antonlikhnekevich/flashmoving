@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="{!! asset('css/tilda-slds-1.4.min.css') !!}" type="text/css" media="all" />
     <link rel="stylesheet" href="{!! asset('css/tilda-zoom-2.0.min.css') !!}" type="text/css" media="all" />
     <link rel="stylesheet" href="{!! asset('css/tooltipster.min.css') !!}" type="text/css" media="all" />
-    
+
     <!-- Template Custom CSS -->
     <link rel="stylesheet" href="{!! asset('css/custom.css') !!}" type="text/css" media="all">
 
@@ -40,6 +40,8 @@
     <script src="{!! asset('js/tilda-zoom-2.0.min.js') !!}"></script>
     <script src="{!! asset('js/tilda-map-1.0.min.js') !!}"></script>
     <script src="{!! asset('js/jquery.tooltipster.min.js') !!}"></script>
+    <script src="{!! asset('js/tilda-forms-1.0.min.js') !!}"></script>
+
     <script type="text/javascript">
         window.dataLayer = window.dataLayer || [];
     </script>
