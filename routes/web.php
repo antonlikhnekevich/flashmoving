@@ -14,3 +14,4 @@
 Route::get('/', 'PagesController@getIndex');
 Route::get('/privacy', 'PagesController@getPp');
 Route::get('/family', 'PagesController@getFamily');
+Route::get('/contact-us', 'PagesController@getContact');
