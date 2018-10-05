@@ -17,4 +17,16 @@ class PagesController extends Controller
   public function getFamily() {
     return view('family');
   }
+
+  public function getContact() {
+    return view('contact-us');
+  }
+
+  public function getAbout() {
+    return view('about-us');
+  }
+
+  public function getServices() {
+    return view('services');
+  }
 }

@@ -51,13 +51,7 @@
                                             </div>
                                         </div>
                                         <div class="t309__button">
-                                            <a href="https://secure.flashmoving.net" target="_blank" class="t-btn " style="color:#ffffff;border:2px solid #ffffff;background-color:#d14321;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;font-weight:500;box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);">
-                                                <table style="width:100%; height:100%;">
-                                                    <tr>
-                                                        <td>FREE ESTIMATE</td>
-                                                    </tr>
-                                                </table>
-                                            </a>
+                                            <a href="https://secure.flashmoving.net" target="_blank" class="t-btn " style="color:#ffffff;border:2px solid #ffffff;background-color:#d14321;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;font-weight:500;box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3); padding-top:17px;">FREE ESTIMATE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -103,7 +97,7 @@
                         </div>
                         <div class="t030__descr t-descr t-descr_md" field="descr" style="">
                             <div style="font-size:16px;" data-customstyle="yes">Residential and commercial, local and interstate moves, packing solutions and other moving services
-                                <br />If you have any questions, give us a <u>call<br /></u><strong><u data-redactor-tag="u"><a href="tel:+18572043448" style="">+1 857 241 </a>8778</u></strong>
+                                <br />If you have any questions, give us a <u>call<br /></u><strong><u data-redactor-tag="u"><a href="tel:+18572043448" style="">+1 857 241 8778</a></u></strong>
                                 <br />
                             </div>
                         </div>
@@ -255,12 +249,8 @@
                                     <li>Clean 18' Box Truck.</li>
                                 </ul>
                             </div>
-                            <a href="https://secure.flashmoving.net" target="_blank" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#db4623;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;">
-                                <table style="width:100%; height:100%;">
-                                    <tr>
-                                        <td>Book now</td>
-                                    </tr>
-                                </table>
+                            <a href="https://secure.flashmoving.net" target="_blank" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#db4623;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px; padding-top:13px">
+                             Book now
                             </a>
                         </div>
                     </div>
@@ -284,12 +274,8 @@
                                     </ul>
                                 </div>
                             </div>
-                            <a href="https://secure.flashmoving.net" target="_blank" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#db4623;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;">
-                                <table style="width:100%; height:100%;">
-                                    <tr>
-                                        <td>Book now</td>
-                                    </tr>
-                                </table>
+                            <a href="https://secure.flashmoving.net" target="_blank" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#db4623;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px; padding-top:13px">
+                             Book now
                             </a>
                         </div>
                     </div>
@@ -315,12 +301,8 @@
                                     </ul>
                                 </div>
                             </div>
-                            <a href="https://secure.flashmoving.net" target="_blank" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#db4623;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;">
-                                <table style="width:100%; height:100%;">
-                                    <tr>
-                                        <td>Book now</td>
-                                    </tr>
-                                </table>
+                            <a href="https://secure.flashmoving.net" target="_blank" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#db4623;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px; padding-top:13px">
+                             Book now
                             </a>
                         </div>
                     </div>
@@ -549,72 +531,12 @@
                 </div>
             </div>
         </div>
-        <div id="rec9460606" class="r t-rec t-rec_pt_30 t-rec_pb_30" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="419">
-            <!-- t419-->
-            <div class="t419 t419__hide-last-line">
-                <div class="t-container">
-                    <div class="t419__col t-col t-col_8 t-prefix_2">
-                        <div class="t419__numberwrapper">
-                            <div class="t419__number">
-                                <div class="t419__circle" style="width: 46px; height: 46px; border-width: 2px; border-color: #d04221; background: #d04221;"></div>
-                                <div class="t419__digit t-name t-name_md" field="number" style="color: #ffffff;font-size: 20px;">1</div>
-                            </div>
-                            <div class="t419__line" style="width: 2px;background: #d04221;"></div>
-                        </div>
-                        <div class="t419__textwrapper" style="">
-                            <div class="t419__title t-name t-name_md" field="title">Call <a href="tel:+18572043448" style="">+1 857-241-8</a>778</div>
-                            <div class="t419__descr t-descr t-descr_xs" field="descr">
-                                <div style="font-size:18px;" data-customstyle="yes">Our manager will ask you a few questions to give you an accurate estimate
-                                    <br />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="t419__col t-col t-col_8 t-prefix_2">
-                        <div class="t419__numberwrapper">
-                            <div class="t419__number">
-                                <div class="t419__circle" style="width: 46px; height: 46px; border-width: 2px; border-color: #d04221; background: #d04221;"></div>
-                                <div class="t419__digit t-name t-name_md" field="number2" style="color: #ffffff;font-size: 20px;">2</div>
-                            </div>
-                            <div class="t419__line" style="width: 2px;background: #d04221;"></div>
-                        </div>
-                        <div class="t419__textwrapper" style="">
-                            <div class="t419__title t-name t-name_md" field="title2">Choose date and time for your move</div>
-                            <div class="t419__descr t-descr t-descr_xs" field="descr2">
-                                <div style="font-size:18px;" data-customstyle="yes">Select a desired moving date</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="t419__col t-col t-col_8 t-prefix_2">
-                        <div class="t419__numberwrapper">
-                            <div class="t419__number">
-                                <div class="t419__circle" style="width: 46px; height: 46px; border-width: 2px; border-color: #d04221; background: #d04221;"></div>
-                                <div class="t419__digit t-name t-name_md" field="number3" style="color: #ffffff;font-size: 20px;">3</div>
-                            </div>
-                            <div class="t419__line" style="width: 2px;background: #d04221;"></div>
-                        </div>
-                        <div class="t419__textwrapper" style="">
-                            <div class="t419__title t-name t-name_md" field="title3">Get free estimate</div>
-                            <div class="t419__descr t-descr t-descr_xs" field="descr3">
-                                <div style="font-size:18px;" data-customstyle="yes">You'll get your free estimate by phone and by e-mail</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="t419__col t-col t-col_8 t-prefix_2">
-                        <div class="t419__numberwrapper">
-                            <div class="t419__number">
-                                <div class="t419__circle" style="width: 46px; height: 46px; border-width: 2px; border-color: #d04221; background: #d04221;"></div>
-                                <div class="t419__digit t-name t-name_md" field="number4" style="color: #ffffff;font-size: 20px;">4</div>
-                            </div>
-                            <div class="t419__line" style="width: 2px;background: #d04221;"></div>
-                        </div>
-                        <div class="t419__textwrapper" style="">
-                            <div class="t419__title t-name t-name_md" field="title4">Start your move</div>
-                            <div class="t419__descr t-descr t-descr_xs" field="descr4">
-                                <div style="font-size:18px;" data-customstyle="yes">Are you ready? Excellent. We are on our way!</div>
-                            </div>
-                        </div>
-                    </div>
+        <div id="rec69193856" class="r t-rec t-rec_pt_0 t-rec_pb_0 r_anim r_showed" style="padding-top:0px;padding-bottom:0px; " data-record-type="3">
+            <!-- T107 -->
+            <div class="t107">
+                <div class="t-align_center" itemscope="" itemtype="http://schema.org/ImageObject">
+                    <meta itemprop="image" content="https://static.tildacdn.com/tild6563-3030-4533-b435-633336653135/how_to_start_mobile.jpg">
+                    <a href="https://secure.flashmoving.net/" target="_blank"><img src="https://static.tildacdn.com/tild6563-3030-4533-b435-633336653135/how_to_start_mobile.jpg" data-original="https://static.tildacdn.com/tild6563-3030-4533-b435-633336653135/how_to_start_mobile.jpg" class="t107__width t-width t-width_8 t-img loaded" imgfield="img"></a>
                 </div>
             </div>
         </div>
@@ -931,7 +853,7 @@
                 <div class="t572__container t-container">
                     <div class="t-col t-col_6 t-prefix_3 t-align_center">
                         <div class="t572__text t-text t-text_sm" field="text" style="">
-                            <div style="text-align:center;" data-customstyle="yes"><span style="font-size: 18px;"><strong>Phone: </strong><a href="tel:+18572043448" style="">+1 857 </a>241 8778<br /><strong> E-mail:</strong> <a href="mailto:info@flashmoving.net" style="">info@flashmoving.net</a></span>
+                            <div style="text-align:center;" data-customstyle="yes"><span style="font-size: 18px;"><strong>Phone: </strong><a href="tel:+18572043448" style="">+1 857 241 8778</a><br /><strong> E-mail:</strong> <a href="mailto:info@flashmoving.net" style="">info@flashmoving.net</a></span>
                                 <br />
                             </div>
                         </div>
