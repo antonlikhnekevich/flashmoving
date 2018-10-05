@@ -17,8 +17,37 @@
     <!-- Assets -->
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'/>
 
+<<<<<<< HEAD
       @yield('cssandjs')
 
+=======
+    <link rel="stylesheet" href="css/tilda-grid-3.0.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/tilda-blocks-2.12.css?t=1538552615" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/tilda-animation-1.0.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/tilda-slds-1.4.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/tilda-zoom-2.0.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/tilda-popup-1.1.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/tooltipster.min.css" type="text/css" media="all" />
+
+
+    <!-- Template Custom CSS -->
+    <link rel="stylesheet" href="{!! asset('css/custom.css') !!}" type="text/css" media="all">
+
+    <script src="{!! asset('js/jquery-1.10.2.min.js') !!}"></script>
+    <script src="{!! asset('js/tilda-scripts-2.8.min.js') !!}"></script>
+    <script src="{!! asset('js/tilda-blocks-2.7.js?t=1538552615') !!}"></script>
+    <script src="{!! asset('js/lazyload-1.3.min.js') !!}"></script>
+    <script src="{!! asset('js/tilda-animation-1.0.min.js') !!}"></script>
+    <script src="{!! asset('js/typed.min.js') !!}"></script>
+    <script src="{!! asset('js/bootstrap.min.js') !!}"></script>
+    <script src="{!! asset('js/jquery.touchswipe.min.js') !!}"></script>
+    <script src="{!! asset('js/tilda-slds-1.4.min.js') !!}"></script>
+    <script src="{!! asset('js/hammer.min.js') !!}"></script>
+    <script src="{!! asset('js/tilda-zoom-2.0.min.js') !!}"></script>
+    <script src="{!! asset('js/tilda-map-1.0.min.js') !!}"></script>
+    <script src="{!! asset('js/jquery.tooltipster.min.js') !!}"></script>
+    <script src="{!! asset('js/tilda-forms-1.0.min.js') !!}"></script>
+>>>>>>> 35455acfa3a29953778efbbbc5fef0770db638d1
 
     <script type="text/javascript">
         window.dataLayer = window.dataLayer || [];
