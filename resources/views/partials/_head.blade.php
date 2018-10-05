@@ -1,7 +1,7 @@
 <meta charset="utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Flash Moving Company - Affordable Movers in Boston and surrounding area. Call | 857 241 8778</title>
+    <title>@yield('title')</title>
     <meta name="google-site-verification" content="YGV9MsinFrkrZsQh2MOvxkdzBsdcIQQoia3I8hTV5UI" />
     <meta property="og:url" content="http://flashmoving.net" />
     <meta property="og:title" content="Flash Moving Company - Affordable Movers in Boston and surrounding area. Call | 857 241 8778" />
@@ -17,45 +17,8 @@
     <!-- Assets -->
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'/>
 
-    <link rel="stylesheet" href="{!! asset('css/tilda-grid-3.0.min.css') !!}" type="text/css" media="all" />
-    <link rel="stylesheet" href="{!! asset('css/tilda-blocks-2.12.css') !!}" type="text/css" media="all" />
-    <link rel="stylesheet" href="{!! asset('css/tilda-animation-1.0.min.css') !!}" type="text/css" media="all" />
-    <link rel="stylesheet" href="{!! asset('css/tilda-slds-1.4.min.css') !!}" type="text/css" media="all" />
-    <link rel="stylesheet" href="{!! asset('css/tilda-zoom-2.0.min.css') !!}" type="text/css" media="all" />
-    <link rel="stylesheet" href="{!! asset('css/tooltipster.min.css') !!}" type="text/css" media="all" />
-    <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-grid-3.0.min.css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="https://project80487.tilda.ws/tilda-blocks-2.12.css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-animation-1.0.min.css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-slds-1.4.min.css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-zoom-2.0.min.css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-popup-1.1.min.css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="https://static.tildacdn.com/css/tooltipster.min.css" rel="stylesheet" media="screen">
-    <!-- Template Custom CSS -->
-    <link rel="stylesheet" href="{!! asset('css/custom.css') !!}" type="text/css" media="all">
-    <script src="https://static.tildacdn.com/js/jquery-1.10.2.min.js"></script>
-    <script src="https://static.tildacdn.com/js/tilda-scripts-2.8.min.js"></script>
-    <script src="https://project80487.tilda.ws/tilda-blocks-2.7.js"></script>
-    <script src="https://static.tildacdn.com/js/lazyload-1.3.min.js"></script>
-    <script src="https://static.tildacdn.com/js/tilda-animation-1.0.min.js"></script>
-    <script src="https://static.tildacdn.com/js/tilda-slds-1.4.min.js"></script>
-    <script src="https://static.tildacdn.com/js/hammer.min.js"></script>
-    <script src="https://static.tildacdn.com/js/tilda-zoom-2.0.min.js"></script>
-    <script src="https://static.tildacdn.com/js/typed.min.js"></script>
-    <script src="https://static.tildacdn.com/js/jquery.tooltipster.min.js"></script>
-    <script src="{!! asset('js/jquery-1.10.2.min.js') !!}"></script>
-    <script src="{!! asset('js/tilda-scripts-2.8.min.js') !!}"></script>
-    <script src="{!! asset('js/tilda-blocks-2.7.js') !!}"></script>
-    <script src="{!! asset('js/lazyload-1.3.min.js') !!}"></script>
-    <script src="{!! asset('js/tilda-animation-1.0.min.js') !!}"></script>
-    <script src="{!! asset('js/typed.min.js') !!}"></script>
-    <script src="{!! asset('js/bootstrap.min.js') !!}"></script>
-    <script src="{!! asset('js/jquery.touchswipe.min.js') !!}"></script>
-    <script src="{!! asset('js/tilda-slds-1.4.min.js') !!}"></script>
-    <script src="{!! asset('js/hammer.min.js') !!}"></script>
-    <script src="{!! asset('js/tilda-zoom-2.0.min.js') !!}"></script>
-    <script src="{!! asset('js/tilda-map-1.0.min.js') !!}"></script>
-    <script src="{!! asset('js/jquery.tooltipster.min.js') !!}"></script>
-    <script src="{!! asset('js/tilda-forms-1.0.min.js') !!}"></script>
+      @yield('cssandjs')
+
 
     <script type="text/javascript">
         window.dataLayer = window.dataLayer || [];
