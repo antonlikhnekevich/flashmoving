@@ -44,6 +44,8 @@
     <script src="{!! asset('js/jquery.tooltipster.min.js') !!}"></script>
     <script src="{!! asset('js/tilda-forms-1.0.min.js') !!}"></script>
 
+    
+
     <script type="text/javascript">
         window.dataLayer = window.dataLayer || [];
     </script>

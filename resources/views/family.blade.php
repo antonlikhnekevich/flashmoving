@@ -8,198 +8,28 @@
 
 <div id="rec62032690" class="r t-rec t-rec_pt_0" style="padding-top:0px; " data-animationappear="off" data-record-type="396">
     <!-- T396 -->
-    <style>
-        #rec62032690 .t396__artboard {
-            min-height: 500px;
-            height: 100vh;
-            background-color: #ffffff;
-        }
 
-        #rec62032690 .t396__filter {
-            min-height: 500px;
-            height: 100vh;
-            background-image: -webkit-gradient( linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3)));
-            background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
-            background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
-        }
-
-        #rec62032690 .t396__carrier {
-            min-height: 500px;
-            height: 100vh;
-            background-position: center top;
-            background-attachment: scroll;
-            background-image: url('images/tild6137-3064-4532-b032-343138343434__-__resize__20x__erda-estremera-58145.jpg');
-            background-size: cover;
-            background-repeat: no-repeat;
-        }
-
-        @media screen and (max-width: 1199px) {
-            #rec62032690 .t396__artboard {}
-            #rec62032690 .t396__filter {}
-            #rec62032690 .t396__carrier {
-                background-attachment: scroll;
-            }
-        }
-
-        @media screen and (max-width: 959px) {}
-
-        @media screen and (max-width: 639px) {}
-
-        @media screen and (max-width: 479px) {}
-
-        #rec62032690 .tn-elem[data-elem-id="1470209944682"] {
-            color: #ffffff;
-            text-align: center;
-            z-index: 3;
-            top: calc(50vh - 0px + 0.5px);
-            left: calc(50% - 580px + -1px);
-            width: 1160px;
-        }
-
-        #rec62032690 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
-            color: #ffffff;
-            font-size: 96px;
-            font-family: 'Arial';
-            line-height: 0.95;
-            font-weight: 700;
-            background-position: center center;
-            border-color: transparent;
-            border-style: solid;
-        }
-
-        @media screen and (max-width: 1199px) {
-            #rec62032690 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
-                font-size: 104px;
-            }
-        }
-
-        @media screen and (max-width: 959px) {
-            #rec62032690 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
-                font-size: 70px;
-            }
-        }
-
-        @media screen and (max-width: 639px) {
-            #rec62032690 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
-                font-size: 34px;
-            }
-        }
-
-        @media screen and (max-width: 479px) {
-            #rec62032690 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
-                font-size: 34px;
-            }
-        }
-
-        #rec62032690 .tn-elem[data-elem-id="1470210011265"] {
-            color: #ffffff;
-            text-align: center;
-            z-index: 4;
-            top: calc(50vh - 0px + 112px);
-            left: calc(50% - 365px + 0px);
-            width: 730px;
-        }
-
-        #rec62032690 .tn-elem[data-elem-id="1470210011265"] .tn-atom {
-            color: #ffffff;
-            font-size: 20px;
-            font-family: 'Arial';
-            line-height: 1.5;
-            font-weight: 400;
-            background-position: center center;
-            border-color: transparent;
-            border-style: solid;
-        }
-
-        @media screen and (max-width: 1199px) {
-            #rec62032690 .tn-elem[data-elem-id="1470210011265"] .tn-atom {
-                font-size: 18px;
-                line-height: 1.55;
-            }
-        }
-
-        @media screen and (max-width: 959px) {}
-
-        @media screen and (max-width: 639px) {
-            #rec62032690 .tn-elem[data-elem-id="1470210011265"] .tn-atom {
-                font-size: 16px;
-            }
-        }
-
-        @media screen and (max-width: 479px) {}
-
-        #rec62032690 .tn-elem[data-elem-id="1528755246467"] {
-            z-index: 2;
-            top: calc(50vh - 250px + 177px);
-            left: calc(50% - 600px + -7px);
-            width: 1213px;
-            height: 146px;
-        }
-
-        #rec62032690 .tn-elem[data-elem-id="1528755246467"] .tn-atom {
-            opacity: 0.5;
-            background-color: #000000;
-            background-position: center center;
-            border-color: transparent;
-            border-style: solid;
-        }
-
-        @media screen and (max-width: 1199px) {}
-
-        @media screen and (max-width: 959px) {}
-
-        @media screen and (max-width: 639px) {}
-
-        @media screen and (max-width: 479px) {}
-
-        #rec62032690 .tn-elem[data-elem-id="1533421845739"] {
-            color: #ffffff;
-            text-align: center;
-            z-index: 5;
-            top: calc(50vh - 250px + 444px);
-            left: calc(50% - 600px + 535px);
-            width: 130px;
-            height: 55px;
-        }
-
-        #rec62032690 .tn-elem[data-elem-id="1533421845739"] .tn-atom {
-            color: #ffffff;
-            font-size: 16px;
-            font-family: 'Arial';
-            line-height: 1.55;
-            font-weight: 600;
-            border-width: 2px;
-            border-radius: 30px;
-            background-color: #db4623;
-            background-position: center center;
-            border-color: #ffffff;
-            border-style: solid;
-            transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-            box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.5);
-        }
-
-        @media screen and (max-width: 1199px) {}
-
-        @media screen and (max-width: 959px) {}
-
-        @media screen and (max-width: 639px) {}
-
-        @media screen and (max-width: 479px) {}
-    </style>
-    <div class='t396'>
-        <div class="t396__artboard" data-artboard-recid="62032690" data-artboard-height="500" data-artboard-height_vh="100" data-artboard-valign="center" data-artboard-ovrflw="">
-            <div class="t396__carrier t-bgimg" data-artboard-recid="62032690" data-original="images/tild6137-3064-4532-b032-343138343434__erda-estremera-58145.jpg"></div>
-            <div class="t396__filter" data-artboard-recid="62032690"></div>
-            <div class='t396__elem tn-elem tn-elem__620326901470209944682' data-elem-id='1470209944682' data-elem-type='text' data-field-top-value="0.5" data-field-top-res-960-value="0" data-field-top-res-640-value="0" data-field-top-res-480-value="0" data-field-top-res-320-value="-1" data-field-left-value="-1" data-field-left-res-960-value="0" data-field-left-res-640-value="0" data-field-left-res-480-value="0" data-field-left-res-320-value="0" data-field-width-value="1160" data-field-width-res-960-value="940" data-field-width-res-640-value="620" data-field-width-res-480-value="460" data-field-width-res-320-value="300" data-field-axisy-value="center" data-field-axisx-value="center" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="">
-                <div class='tn-atom' field='tn_text_1470209944682'>FLASH MOVING |</div>
+    <div class="t309">
+        <div class="t309__item item active" style="height:75vh;position:relative;background:url('images/tild3665-3830-4138-b530-316465623432__-__resize__20x__IMG_7828.jpg') center center no-repeat; background-size:cover;" bgimgfield="img" data-tu-noclick="yes">
+            <div class="t-cover__carrier" data-content-cover-bg="images//tild6137-3064-4532-b032-343138343434__erda-estremera-58145.jpg" style="background-image: url(''); height: 100%; background-attachment:scroll;"></div>
+            <div class="t-cover__filter" style="height: 100%; left: 0; position: absolute; top: 0; width: 100%; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#cc000000', endColorstr='#cc000000'); "></div>
+            <div class="t309__table" style="height:75vh;">
+                <div class="t309__cell">
+                    <div class="t-container">
+                        <div class="t-width t-width_10 t309__wrapper">
+                            <div class="t309__textwrapper" style="">
+                                <div class="t309__title t-title t-title_sm " field="title" style="text-transform:uppercase;">
+                                    <div style="text-align:left;" class="pizda" data-customstyle="yes">
+                                      <span class="sex">Flash Moving |</span></div>
+                                </div>
+                                <div class="t309__button">
+                                    <a href="https://secure.flashmoving.net" target="_blank" class="t-btn " style="color:#ffffff;border:2px solid #ffffff;background-color:#d14321;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;font-weight:500;box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3); padding-top:17px;">FREE ESTIMATE</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class='t396__elem tn-elem tn-elem__620326901470210011265' data-elem-id='1470210011265' data-elem-type='text' data-field-top-value="112" data-field-top-res-960-value="113.5" data-field-top-res-640-value="82" data-field-top-res-480-value="53" data-field-top-res-320-value="70" data-field-left-value="0" data-field-left-res-960-value="0" data-field-left-res-640-value="0" data-field-left-res-480-value="0" data-field-left-res-320-value="0" data-field-width-value="730" data-field-width-res-960-value="510" data-field-width-res-640-value="620" data-field-width-res-480-value="420" data-field-width-res-320-value="300" data-field-axisy-value="center" data-field-axisx-value="center" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="">
-                <div class='tn-atom' field='tn_text_1470210011265'></div>
-            </div>
-            <div class='t396__elem tn-elem tn-elem__620326901528755246467' data-elem-id='1528755246467' data-elem-type='shape' data-field-top-value="177" data-field-top-res-960-value="132" data-field-top-res-640-value="147" data-field-top-res-480-value="177" data-field-top-res-320-value="190" data-field-left-value="-7" data-field-left-res-960-value="-20" data-field-left-res-640-value="15" data-field-left-res-480-value="11" data-field-left-res-320-value="9" data-field-height-value="146" data-field-height-res-960-value="236" data-field-height-res-640-value="206" data-field-height-res-480-value="146" data-field-height-res-320-value="119" data-field-width-value="1213" data-field-width-res-960-value="1000" data-field-width-res-640-value="611" data-field-width-res-480-value="459" data-field-width-res-320-value="302" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="">
-                <div class='tn-atom'> </div>
-            </div>
-            <div class='t396__elem tn-elem tn-elem__620326901533421845739' data-elem-id='1533421845739' data-elem-type='button' data-field-top-value="444" data-field-left-value="535" data-field-height-value="55" data-field-width-value="130" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value=""> <a class='tn-atom' href="https://secure.flashmoving.net/" target="_blank">JOIN</a> </div>
         </div>
     </div>
     <script>

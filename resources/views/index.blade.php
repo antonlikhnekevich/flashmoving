@@ -26,7 +26,6 @@
 @stop
 
 @section('content')
-<body class="t-body" style="margin:0;">
     <!--allrecords-->
     <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node">
         <div id="rec55339632" class="r t-rec" style=" " data-record-type="635">
@@ -883,8 +882,4 @@
             </div>
         </div>
     </div>
-</body>
-
-
-
 @stop

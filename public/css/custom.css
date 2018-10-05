@@ -1,3 +1,16 @@
+body {
+  margin: 0;
+}
+.pizda {
+      font-size: 104px;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+    display: table-cell;
+vertical-align: middle;
+width: 100%;
+}
 
 .t-btn_sm:hover{
   background-color: #000 !important;
@@ -23,12 +36,7 @@ a.t-menu__link-item:hover{
 }
 
 
-svg:hover {
-    fill: #0e1a25;
-    background:#d04221;
-    transform: scale(1.1);
-    transition: background 0.5s, ease-out, fill 0.5s;
-}
+
 
 .t572__text a:hover{
   color:red !important;

@@ -94,7 +94,7 @@
                                 <div class="t851__textwrapper t851__animation_fast ">
                                     <div class="t851__textwrapper__content">
                                         <div class="t851__inner-wrapper t851__inner-wrapper_animated-btn">
-                                            <div class="t851__title t-title t-title_xxs" field="li_title__1531229910323" style="">Local Moving</div>
+                                            <div class="t851__title t-title t-title_xxs" field="li_title__1531229910323" style=""><h2 style="font-size:32px;">Local Moving</h2></div>
                                             <div class="t851__descr t-descr t-descr_sm" field="li_descr__1531229910323" style="">
                                                 <div style="text-align:center;color:#ffffff;" data-customstyle="yes"></div>
                                             </div>
@@ -117,8 +117,7 @@
                                 <div class="t851__textwrapper t851__animation_fast ">
                                     <div class="t851__textwrapper__content">
                                         <div class="t851__inner-wrapper t851__inner-wrapper_animated-btn">
-                                            <div class="t851__title t-title t-title_xxs" field="li_title__1531230022700" style="">Interstate Moving
-                                                <br />
+                                            <div class="t851__title t-title t-title_xxs" field="li_title__1531230022700" style=""><h2 style="font-size:32px;">Interstate Moving</h2>
                                             </div>
                                         </div>
                                         <div class="t851__button-container t851__button_show-hover">
@@ -151,7 +150,7 @@
                                 <div class="t851__textwrapper t851__animation_fast ">
                                     <div class="t851__textwrapper__content">
                                         <div class="t851__inner-wrapper t851__inner-wrapper_animated-btn">
-                                            <div class="t851__title t-name t-name_xl" field="li_title__1531229910323" style="">Storage</div>
+                                            <div class="t851__title t-name t-name_xl" field="li_title__1531229910323" style=""><h2 style="font-size:22px;">Storage</h2></div>
                                         </div>
                                         <div class="t851__button-container t851__button_show-hover">
                                             <div class="t851__button-wrapper">
@@ -171,7 +170,7 @@
                                 <div class="t851__textwrapper t851__animation_fast ">
                                     <div class="t851__textwrapper__content">
                                         <div class="t851__inner-wrapper t851__inner-wrapper_animated-btn">
-                                            <div class="t851__title t-name t-name_xl" field="li_title__1531230022700" style="">Commercial Moving</div>
+                                            <div class="t851__title t-name t-name_xl" field="li_title__1531230022700" style=""><h2 style="font-size:22px;">Commercial Moving</h2></div>
                                         </div>
                                         <div class="t851__button-container t851__button_show-hover">
                                             <div class="t851__button-wrapper">
@@ -191,7 +190,7 @@
                                 <div class="t851__textwrapper t851__animation_fast ">
                                     <div class="t851__textwrapper__content">
                                         <div class="t851__inner-wrapper t851__inner-wrapper_animated-btn">
-                                            <div class="t851__title t-name t-name_xl" field="li_title__1531230031147" style="">Packing</div>
+                                            <div class="t851__title t-name t-name_xl" field="li_title__1531230031147" style=""><h2 style="font-size:22px;">Packing</h2></div>
                                         </div>
                                         <div class="t851__button-container t851__button_show-hover">
                                             <div class="t851__button-wrapper">
