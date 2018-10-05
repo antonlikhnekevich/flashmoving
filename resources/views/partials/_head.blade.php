@@ -17,10 +17,7 @@
     <!-- Assets -->
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'/>
 
-<<<<<<< HEAD
-      @yield('cssandjs')
 
-=======
     <link rel="stylesheet" href="css/tilda-grid-3.0.min.css" type="text/css" media="all" />
     <link rel="stylesheet" href="css/tilda-blocks-2.12.css?t=1538552615" type="text/css" media="all" />
     <link rel="stylesheet" href="css/tilda-animation-1.0.min.css" type="text/css" media="all" />
@@ -47,7 +44,7 @@
     <script src="{!! asset('js/tilda-map-1.0.min.js') !!}"></script>
     <script src="{!! asset('js/jquery.tooltipster.min.js') !!}"></script>
     <script src="{!! asset('js/tilda-forms-1.0.min.js') !!}"></script>
->>>>>>> 35455acfa3a29953778efbbbc5fef0770db638d1
+
 
     <script type="text/javascript">
         window.dataLayer = window.dataLayer || [];
