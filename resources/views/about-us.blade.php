@@ -1,8 +1,31 @@
-@section('title', '')
+@section('title', 'About Us')
 @section('dscr', '')
 @section('keywords', '')
 
 @extends('main')
+
+@section('cssandjs')
+<link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-grid-3.0.min.css" rel="stylesheet" media="screen">
+<link rel="stylesheet" href="https://project80487.tilda.ws/tilda-blocks-2.12.css" rel="stylesheet" media="screen">
+<link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-animation-1.0.min.css" rel="stylesheet" media="screen">
+<link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-slds-1.4.min.css" rel="stylesheet" media="screen">
+<link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-zoom-2.0.min.css" rel="stylesheet" media="screen">
+<link rel="stylesheet" href="https://static.tildacdn.com/css/tooltipster.min.css" rel="stylesheet" media="screen">
+<!-- Template Custom CSS -->
+<link rel="stylesheet" href="{!! asset('css/custom.css') !!}" type="text/css" media="all">
+<script src="https://static.tildacdn.com/js/jquery-1.10.2.min.js"></script>
+<script src="https://static.tildacdn.com/js/tilda-scripts-2.8.min.js"></script>
+<script src="https://project80487.tilda.ws/tilda-blocks-2.7.js"></script>
+<script src="https://static.tildacdn.com/js/lazyload-1.3.min.js"></script>
+<script src="https://static.tildacdn.com/js/tilda-animation-1.0.min.js"></script>
+<script src="https://static.tildacdn.com/js/tilda-slds-1.4.min.js"></script>
+<script src="https://static.tildacdn.com/js/hammer.min.js"></script>
+<script src="https://static.tildacdn.com/js/tilda-zoom-2.0.min.js"></script>
+<script src="https://static.tildacdn.com/js/tilda-forms-1.0.min.js"></script>
+<script src="https://static.tildacdn.com/js/jquery.tooltipster.min.js"></script>
+<link rel="stylesheet" href="{!! asset('css/custom.css') !!}" type="text/css" media="all">
+
+@stop
 
 @section('content')
 

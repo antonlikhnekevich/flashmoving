@@ -6,6 +6,8 @@
 
 @section('content')
 
+<<<<<<< HEAD
+=======
     <!--allrecords-->
     <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="80487" data-tilda-page-id="3721043" data-tilda-formskey="037c22c7d5e69bb5f455c2a4d760c441">
             <div id="rec55331969" class="r t-rec" style=" " data-animationappear="off" data-record-type="217">
@@ -859,6 +861,7 @@
                 </div>
             </div>
         </div>
+>>>>>>> 35455acfa3a29953778efbbbc5fef0770db638d1
 
 
 @stop

@@ -1,7 +1,7 @@
 <meta charset="utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Flash Moving Company - Affordable Movers in Boston and surrounding area. Call | 857 241 8778</title>
+    <title>@yield('title')</title>
     <meta name="google-site-verification" content="YGV9MsinFrkrZsQh2MOvxkdzBsdcIQQoia3I8hTV5UI" />
     <meta property="og:url" content="http://flashmoving.net" />
     <meta property="og:title" content="Flash Moving Company - Affordable Movers in Boston and surrounding area. Call | 857 241 8778" />
@@ -16,6 +16,7 @@
     <link rel="shortcut icon" href="https://static.tildacdn.com/tild3063-6638-4664-a564-356261383339/favicon.ico" type="image/x-icon" />
     <!-- Assets -->
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'/>
+
 
     <link rel="stylesheet" href="css/tilda-grid-3.0.min.css" type="text/css" media="all" />
     <link rel="stylesheet" href="css/tilda-blocks-2.12.css?t=1538552615" type="text/css" media="all" />
@@ -44,7 +45,10 @@
     <script src="{!! asset('js/jquery.tooltipster.min.js') !!}"></script>
     <script src="{!! asset('js/tilda-forms-1.0.min.js') !!}"></script>
 
+<<<<<<< HEAD
     
+=======
+>>>>>>> 49464001f6356f385b916d9936d5750be7da62a4
 
     <script type="text/javascript">
         window.dataLayer = window.dataLayer || [];
