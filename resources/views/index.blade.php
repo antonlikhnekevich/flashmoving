@@ -4,6 +4,27 @@
 
 @extends('main')
 
+@section('cssandjs')
+<!-- Css -->
+
+
+<!-- js-->
+<script src="{!! asset('js/jquery-1.10.2.min.js') !!}"></script>
+<script src="{!! asset('js/tilda-scripts-2.8.min.js') !!}"></script>
+<script src="{!! asset('js/tilda-blocks-2.7.js') !!}"></script>
+<script src="{!! asset('js/lazyload-1.3.min.js') !!}"></script>
+<script src="{!! asset('js/tilda-animation-1.0.min.js') !!}"></script>
+<script src="{!! asset('js/typed.min.js') !!}"></script>
+<script src="{!! asset('js/bootstrap.min.js') !!}"></script>
+<script src="{!! asset('js/jquery.touchswipe.min.js') !!}"></script>
+<script src="{!! asset('js/tilda-slds-1.4.min.js') !!}"></script>
+<script src="{!! asset('js/hammer.min.js') !!}"></script>
+<script src="{!! asset('js/tilda-zoom-2.0.min.js') !!}"></script>
+<script src="{!! asset('js/tilda-map-1.0.min.js') !!}"></script>
+<script src="{!! asset('js/jquery.tooltipster.min.js') !!}"></script>
+<script src="{!! asset('js/tilda-forms-1.0.min.js') !!}"></script>
+@stop
+
 @section('content')
 <body class="t-body" style="margin:0;">
     <!--allrecords-->

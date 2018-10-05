@@ -303,33 +303,16 @@
                         </ul>
                     </div>
                 </div>
-                <div class="t228__rightside">
-                    <div class="t228__rightcontainer">
-                        <div class="t228__right_buttons">
-                            <div class="t228__right_buttons_wrap">
-                                <div class="t228__right_buttons_but">
-                                    <a href="" target="" class="t-btn " style="color:#000000;border:2px solid #d14321;border-radius:40px; -moz-border-radius:40px; -webkit-border-radius:40px; font-family:Roboto;font-weight:600;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);">
-                                        <table style="width:100%; height:100%;">
-                                            <tr>
-                                                <td>+1 857 241 8778</td>
-                                            </tr>
-                                        </table>
-                                    </a>
-                                </div>
-                                <div class="t228__right_buttons_but">
-                                    <a href="https://secure.flashmoving.net/" target="" class="t-btn " style="color:#ffffff;border:2px solid #ffffff;background-color:#d14321;border-radius:20px; -moz-border-radius:20px; -webkit-border-radius:20px;font-weight:600;">
-                                        <table style="width:100%; height:100%;">
-                                            <tr>
-                                                <td>Book now</td>
-                                            </tr>
-                                        </table>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="t228__rightside" style=""> <div class="t228__rightcontainer">
+                  <div class="t228__right_buttons">
+                    <ul  class="t228__right_buttons_wrap">
+                          <li class="t228__list_item"><a class="t-menu__link-item" href="/services" style="color:#ffffff;font-weight:600;" data-menu-item-number="1">+1 857 241 8778</a></li>
+                          <li class="t228__list_item"><a href="https://secure.flashmoving.net/" target="" class="t-btn " style="color:#ffffff;border:2px solid #ffffff;background-color:#d14321;border-radius:20px; -moz-border-radius:20px; -webkit-border-radius:20px;font-weight:600; padding-top:9px;">Book Now</a></li>
+                    </ul>
+                  </div>
                 </div>
-                <div class="t228__padding40px"></div>
+              </div>
+              <div class="t228__padding40px"></div>
             </div>
         </div>
         <style>
